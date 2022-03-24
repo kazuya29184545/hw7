@@ -7,6 +7,30 @@ function setup() {                                  // Declare function
 window.addEventListener('load', setup, false); // When page loaded call setup()
 
 
+// function alert1() {                        // Declare function                     
+//     if (isNaN(miles)) {                      // If it's not numeric
+//         alert("Both entries must be numeric");
+//     } else {
+//         ""
+//     }
+// };
+   
+// // function alert2() {                          // Declare function
+// //     if (isNaN(gallons)) {                      // If it's not numeric
+// //         alert("Both entries must be numeric");
+// //     } 
+// //   }
+   
+// var miles = document.getElementById('miles');     // miles input
+// // var gallons = document.getElementById('gallons');  // gallons input
+   
+ 
+// miles.addEventListener('blur', alert1, false);// blur call alert1()
+// // gallons.addEventListener('blur', alert2, false);// blur call alert2()
+
+
+
+
 // get the element
 var button = document.getElementById("button");
  
