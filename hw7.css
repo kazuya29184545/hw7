@@ -1,0 +1,23 @@
+h1 {
+    color:gray;
+    text-align: center;
+}
+
+form{
+    text-align: center;
+
+}
+
+button{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    padding: 1em 3em;
+    width: 200px;
+    color: #333;
+    font-size: 15px;
+    background-color: #cccccc;
+    border-radius: 50vh;
+    text-align: center;
+}
